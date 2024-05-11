@@ -29,6 +29,12 @@ A horizontal bar chart is a graph in the form of rectangular bars. It's a data v
 Line graphs typically are used to show changes or trends in continuous data over a period of time, with a line connecting the dots that represent the different values. For instance, in a line chart showing a company's stock price over the past week, a line would connect the dots that visualize the change in price each day.
 
 ## Composition
+### Pie Chart (Simple share of total)
+A pie chart is one way to display how various parts make up a whole or 100 percent. Each data point is represented by a "slice" of the pie; the slice's size correlates to the percentage of the whole it comprises.
+
+### Tree Map Chart (Absolute difference matters)
+A treemap chart provides a hierarchical view of your data and makes it easy to spot patterns, such as which items are a store's best sellers. The tree branches are represented by rectangles and each sub-branch is shown as a smaller rectangle.
+
 ## Relationship
 ## Spatial
 
