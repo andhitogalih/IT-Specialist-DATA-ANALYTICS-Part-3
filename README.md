@@ -76,7 +76,15 @@ The model is finally deployed in a real-world situation. This might be as easy a
 
 # Describe Data Privacy Laws and Best Practices
 ## GDPR
+(General Data Protection Regulation) GDPR is a European Union regulation that governs the protection of individuals' personal data within the EU. It grants rights to individuals to control their personal data and imposes obligations on organizations collecting, storing, and processing such data. GDPR emphasizes transparency, consent, and data security.
 ## FERPA
+(Family Educational Rights and Privacy Act) FERPA is a federal law in the United States that protects the privacy and security of students' education records. It grants rights to parents or eligible students to access and control their education information. FERPA also regulates the disclosure of education information and provides privacy protections for students.
+
 ## HIPAA
+(Health Insurance Portability and Accountability Act) HIPAA is a federal law in the United States that regulates the use and disclosure of protected health information (PHI). Its goal is to protect the privacy and security of patients' health information. HIPAA gives patients rights to control their health information and establishes security standards for healthcare organizations handling PHI.
+
 ## IRB
+(Institutional Review Board) IRB is an independent body tasked with reviewing, approving, and overseeing research involving human subjects. Its purpose is to protect the rights, safety, and welfare of research subjects. IRB ensures that research is conducted in accordance with relevant ethics and security standards.
+
 ## PCI DSS
+(Payment Card Industry Data Security Standard) PCI DSS is a security standard that governs the processing, storage, and transmission of payment card data. Developed by the Payment Card Industry Security Standards Council, this standard is designed to protect payment card information from unauthorized access and misuse. Organizations that accept credit card payments must comply with PCI DSS to ensure the security of payment card transactions.
